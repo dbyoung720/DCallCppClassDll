@@ -1,0 +1,2 @@
+#define VCD_API __declspec(dllexport)
+#define VCD_API __declspec(dllimport)
